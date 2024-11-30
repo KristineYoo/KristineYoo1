@@ -1,5 +1,3 @@
-- 🩷 Hi, I’m @KristineYoo1
-- 🌷 I’m interested in using machine learning and computer science to innovate in the finanical landscape.
 - 🪷 I’m currently majoing in computer science as an honors college student at Drexel University
 - feel free to contact me at kly35@drexel.edu
 
