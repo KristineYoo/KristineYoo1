@@ -1,4 +1,3 @@
-As a current freshman at Drexel University pursuing a Bachelor of Science in Computer Science on the honors with distinction pathway, I am deeply passionate about innovative applications of artifcial intelligence.
 
 Proficient in Python and Racket
 
